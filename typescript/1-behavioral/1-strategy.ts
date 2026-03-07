@@ -19,4 +19,5 @@
   paymentService.pay(200, "paypal");
   paymentService.pay(300, "crypto");
   paymentService.pay(400, "cash");
+  // If i want to add new payment_method, i need to modify existing class
 }

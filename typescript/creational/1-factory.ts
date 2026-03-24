@@ -1,6 +1,4 @@
 // https://refactoring.guru/design-patterns/factory-method
-// https://refactoring.guru/design-patterns/factory-method/typescript/example
-
 
 abstract class Notification {
     abstract notify(message: string): void;

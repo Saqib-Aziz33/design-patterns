@@ -1,6 +1,6 @@
 # Software design patterns
 
-Design patterns using typescript and java
+Design patterns using typescript
 
 ### Run typescript code
 

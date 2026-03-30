@@ -102,22 +102,6 @@ We will go through patterns in a structured order (Creational → Structural →
 
 ---
 
-### Learning Flow:
-
-Start with:
-
-1. Creational Patterns
-
-   * Singleton
-   * Factory Method
-   * Abstract Factory
-   * Builder
-   * Prototype
-
-Then continue with Structural → Behavioral.
-
----
-
 ### Instruction:
 
-Start with **Singleton Pattern**, and wait for my confirmation before moving to the next pattern.
+Next i will name the pattern you should follow the above guideline and provide relevant material
